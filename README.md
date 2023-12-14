@@ -6,5 +6,6 @@ Requirements:
 
 Steps:
 1. Make sure HDFS is running.
-2. run the build.sh file
-3. execute rf.scala file in spark
+2. Make changes in the .sh files such as path to .jar , .csv files etc.
+3. Run the build.sh file
+4. Execute rf.scala file in spark
